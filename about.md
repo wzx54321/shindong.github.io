@@ -12,4 +12,4 @@ Android developer!
 
 ### Contact me
 
-[email@domain.com](mailto:Get_Sugar@hotmail.com)
+[Get_Sugar@hotmail.com](mailto:Get_Sugar@hotmail.com)
