@@ -8,7 +8,7 @@ Android developer!
 
 ### More Information
 
- Android,JAVA,Kotlin,Flutter,Dart,JS…
+ Android JAVA Kotlin Flutter Dart JS C++ ……
 
 ### Contact me
 
